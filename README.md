@@ -3,5 +3,4 @@ Connect to rdp server using rdesktop after connecting to vpn via openconnect (li
 
 Prerequisites:
 
-rdesktop
-openconnect
+rdesktop, openconnect
